@@ -1,0 +1,11 @@
+nvidia:
+  gtx_1050_ti:
+    megekko_nvidia: 429-112761
+  rtx_3060_ti:
+    megekko_nvidia: 429-170345
+
+amd:
+  rx_5700_xt:
+    megekko_amd: 429-164298
+  rx_6900_xt:
+    megekko_amd: 429-170346
